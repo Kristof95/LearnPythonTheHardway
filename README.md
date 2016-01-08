@@ -1,2 +1,2 @@
 # LearnPythonTheHardway
-cc
+Codecool - Practice the  Python Programming
